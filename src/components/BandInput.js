@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// Add BandInput component
+// import BandsContainer from './containers/BandsContainer';
+>>>>>>> c7d23877fb8d8e3d20d1a81a663a0db2b59d857b
 import React, { Component } from 'react'
 
 class BandInput extends Component {
